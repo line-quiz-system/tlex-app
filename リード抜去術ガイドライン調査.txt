@@ -1,0 +1,181 @@
+﻿経静脈的リード抜去術（TLE）における標準治療と最新ガイドラインに基づく適応およびリスク管理戦略の包括的レビュー
+心臓植込み型電子デバイス（CIED：Cardiac Implantable Electronic Device）は、過去60年にわたり徐脈性不整脈や頻脈性不整脈、および重症心不全患者における標準的な治療法として確立されてきた。世界における新規のCIED植え込み件数は年間120万から140万件に達すると推定されており、人口の高齢化や適応ガイドラインの拡大に伴い、その数は今後も増加の一途をたどると予測されている1。CIED治療の恩恵が広がる一方で、リード（導線）の機能不全、デバイス関連感染症、さらには血行動態の変化や他疾患の治療に伴うリードの干渉など、長期留置に伴う合併症の管理が現代の循環器医療における極めて重要な課題となっている。
+このような背景から、不要または有害となったリードを体内から安全に除去する「経静脈的リード抜去術（TLE：Transvenous Lead Extraction）」の重要性が飛躍的に高まっている。TLEの定義として、米国不整脈学会（HRS）および欧州不整脈学会（EHRA）のコンセンサスでは、「留置から1年以上が経過したリード、あるいは抜去にあたり植え込み時には通常使用されない特殊な器具（レーザーシースや機械的シースなど）を必要とするリードの抜去手技」と定められている1。
+本レポートは、TLE業務に従事する医師、看護師、臨床工学技士、放射線技師などの医療スタッフに向けた高度な学習資料として作成された。過去5年以内の最新知見（JCS/JHRS、HRS、EHRAなどの各種ガイドラインおよびレジストリデータ）を網羅的に統合し、「なぜリードを抜去するのか（適応疾患）」「どのような場合に抜去せずに遺残（Abandonment）を選択するのか」という治療戦略の根拠、ならびに最先端のリスク評価と患者管理の手法について、体系的かつ直感的に理解できるよう詳述する。
+1. リード抜去の主な理由（適応疾患）
+リード抜去の適応判断において最も重要な出発点は、その理由が「感染性」であるか「非感染性」であるかの鑑別である。欧州の大規模レジストリであるELECTRa（European Lead Extraction ConTRolled study）のデータによれば、TLE適応の約52.8%が感染症に起因するものであり、残りが非感染性の理由によるものである2。この二者は、抜去の緊急性、手技の困難度、および術後の患者予後に全く異なる影響を及ぼす。
+感染症（Infectious Indications）
+CIED関連感染症が発症した場合、内科的治療（抗菌薬の点滴など）単独による治癒は事実上不可能である。これは、デバイスおよびリードの表面に細菌が「バイオフィルム」と呼ばれる強固な膜を形成し、免疫細胞や抗菌薬の到達を物理的に阻害するためである。したがって、感染が確定した場合は、ジェネレータおよびすべてのリードを含む「完全抜去（Complete Removal）」が必須の標準治療となる1。感染したCIEDを抜去しなかった場合、30日死亡率が約7倍に跳ね上がることが多変量解析によって示されている3。
+感染症は、その進展度と病態に応じて以下のように厳密に分類され、それぞれに対する治療戦略が構築される2。
+感染症の分類
+	病態と臨床的特徴の解説
+	抜去の必要性
+	ポケット感染（Isolated Pocket Infection）
+	皮下のジェネレータ収納ポケットまたはリードの走行経路に限局した感染。発赤、腫脹、疼痛、熱感、波動感、排膿などを伴うが、血液培養は陰性である。皮膚表面のみの「表在性創部感染」とは区別する必要がある。
+	クラスI（完全抜去が必須）
+	ポケットびらん（Isolated Pocket Erosion）
+	慢性的な物理的圧迫や皮膚の菲薄化により、ジェネレータやリードが皮膚を突き破って露出する状態。局所の明らかな感染徴候がなくても、露出した時点で汚染されているとみなされる。
+	クラスI（完全抜去が必須）
+	デバイス関連心内膜炎（CIED-related Endocarditis）
+	血液培養が陽性であり、経食道心エコー（TEE）などでリード上または心臓弁に感染性の疣贅（ゆうぜい：細菌と血栓の塊）が確認される重篤な全身感染症。
+	クラスI（完全抜去が必須）
+	ポケット感染を伴う菌血症
+	局所のポケット感染徴候に加え、血液培養が陽性となる状態。疣贅の有無にかかわらず、全身性の播種を意味する。
+	クラスI（完全抜去が必須）
+	感染性適応によるTLEは、手技そのものが成功裏に完了した場合であっても、長期的な予後が不良であることが知られている。CIED感染によるTLE患者は、非感染理由によるTLE患者と比較して、追跡期間中の無イベント生存率が有意に低く（ハザード比 1.97）、全死亡率が高い（30% vs. 10%）ことが示されている5。特に、術前に疣贅や血液培養陽性が認められる症例では、予後悪化のリスクがさらに増大するため、早期発見と診断後3日以内の迅速な抜去が推奨されている3。
+非感染性の理由（Non-infectious Indications）
+非感染性の理由は多岐にわたるが、主にリード自体の物理的・電気的破綻、静脈系の物理的閉塞、そして近年急速にクローズアップされている「他の構造的心疾患に対するカテーテル治療との干渉」に大別される。
+リード断線および機能不全
+リードは、心拍動に伴う絶え間ない機械的屈曲ストレスや、鎖骨下静脈と第1肋骨の間隙（サブクラビアン・クラッシュ）での物理的圧迫に晒されている6。リードの不具合は主に「導線の断線（Fracture）」と「絶縁体の損傷（Insulation defect）」の2つのメカニズムで発生する。 過去の米国の大規模データ（PAIDLESS研究など）では、特定のリードモデルにおける設計上の欠陥が明らかになっている。例えば、Medtronic社の「Sprint Fidelis」リードはその構造上、断線を起こしやすく（不具合の約89.3%が断線）、St. Jude Medical社（現Abbott）の「Riata / Riata ST」リードは、内部導線が絶縁体を突き破って外部に露出する「エターナリゼーション（Externalization）」という特有の絶縁不全を起こしやすい（不具合の約20%が絶縁不全）ことが報告され、いずれも大規模なリコール対象となった7。これらのリコール対象リードの機能不全は、致命的なペーシング不全や不適切作動（誤った電気ショックの連発）を引き起こすため、患者の生命を直接脅かす8。
+静脈閉塞およびアップグレードに伴うスペース確保
+CIEDのリードが長期間血管内に留置されると、リード表面に血栓が形成され、やがて線維化して静脈壁と同化する。これにより、上大静脈（SVC）や鎖骨下静脈が高度に狭窄または完全閉塞することがある（SVC症候群）9。心不全の進行に伴い、従来のペースメーカから両心室ペーシング（CRT）へとデバイスをアップグレードする際、新たな左室（LV）リードを追加するためのルートが閉塞している場合がある。このような状況において、閉塞した血管を再開通させるため、あるいはこれ以上の血管内スペースの圧迫を防ぐために、機能していない古いリードを抜去する戦略がとられる9。
+経カテーテル的三尖弁治療（TTVR / T-TEER）との干渉
+近年、リード抜去の領域において最も議論を呼んでいるのが、三尖弁逆流（TR）に対する経カテーテル的治療との相互作用である。経静脈リードは右心房から右心室へ向かう際、必ず三尖弁を通過する。リードが三尖弁の尖（Leaflet）に物理的に干渉したり、癒着したりすることで、高度な三尖弁逆流（CIED関連TR）を引き起こすことがあり、その有病率は7%〜30%に達するとされる11。
+さらに、重症TRに対して経カテーテル的三尖弁置換術（TTVR：EVOQUEシステムなど）や経カテーテル的弁尖クリップ術（T-TEER）を行う際、既存のCIEDリードが大きな障害となる。TTVRの際、リードを人工弁の外側に挟み込んだまま留置する「Jailed lead（投獄されたリード）」という手法がとられることがあるが、このアプローチには深刻なリスクが伴う。最近のコホート研究では、EVOQUEシステムによってJailed leadとなった32例のうち、23.7%が術後に電気的異常を来たし、6.8%が機械的損傷により再介入を要したと報告されている12。人工弁の金属フレームによるリードへの圧迫（インピンジメント）が断線や機能不全を招くためである。 したがって、現代の専門家のコンセンサスでは、TTVR施行前には事前のTLEによってリードを抜去し、術後にリードレスペースメーカ（MicraやAveirなど）等を用いて再植込みを行うことが、長期的な安全性の観点から強く推奨されている12。
+2. ガイドラインにおける適応の考え方
+リード抜去の適応は、医療者の主観ではなく、厳密なリスク・ベネフィットの天秤に基づいて決定されなければならない。この判断基準となるのが、2017年のHRS（米国不整脈学会）エキスパートコンセンサス、およびそれに準拠した2021年・2023年のJCS/JHRS（日本循環器学会/日本不整脈心電学会）のステートメントである1。
+ガイドラインにおける「推奨クラス（Class）」は、処置によって得られる利益（感染の根治、致命的トラブルの回避）が、TLE特有の致死的合併症リスク（血管破裂など）をどれだけ上回っているかを示す指標である。以下に、TLE適応のクラス分類を分かりやすく要約する。
+
+
+推奨クラス
+	概念と臨床的意義
+	ガイドラインで規定される具体的な適応ケース
+	クラス I
+
+
+（絶対的適応）
+	利益がリスクを圧倒的に上回る。
+
+
+手技に伴う危険性を考慮しても、必ず実施すべき不可欠な状態。
+	・確証されたCIED関連感染症（局所ポケット感染、心内膜炎、菌血症など）3
+
+
+・遺残リードが原因で発生している生命を脅かす致死性不整脈9
+
+
+・患者の生存に不可欠な新規リードを追加したいが、静脈閉塞により経路がない場合9
+
+
+・静脈内にステントを留置する予定があり、既存リードがその妨げとなる場合9
+	クラス IIa
+
+
+（相対的適応・強）
+	利益がリスクを上回る。
+
+
+代替手段が乏しく、実施することが医学的に妥当とみなされる状態。
+	・リードやデバイスの留置部に起因する、耐え難い慢性的な激痛がある場合9
+
+
+・悪性腫瘍に対する放射線治療など、他疾患の最適な治療をデバイスが妨げる場合9
+
+
+・新規植込みにより、片側に4本以上、またはSVC内に5本以上のリードが密集することになる場合（スペース超過の予防）9
+	クラス IIb
+
+
+（相対的適応・弱）
+	利益がリスクを上回る可能性がある。
+
+
+個々の患者の状況（年齢、癒着の程度など）を考慮し、実施を検討してもよい状態。
+	・将来的に患者の脅威となる可能性があるリコール対象リード（機能しているが予防的に抜く場合）9
+
+
+・MRI検査を実施するアクセスを確保するために、遺残リードを抜去する場合9
+
+
+・機能正常であるが不要になったリードを、共有意思決定（Shared decision-making）を経て抜去する場合9
+	クラス III
+
+
+（禁忌）
+	リスクが利益と等しい、またはリスクが利益を上回る。
+
+
+患者に害を及ぼす可能性が高いため、実施すべきではない。
+	・感染のない状態で、極端な高齢や重度の併存疾患があり、癒着が強固な古いリードを、単に「不要になったから」という理由だけで予防的に抜去しようとする場合3
+	洞察（Insight）: このガイドライン分類を通底する臨床的哲学は明確である。「感染が存在する場合は、いかなる技術的困難や患者の脆弱性（Frailty）があろうとも、根治のために抜去を断行せよ」というのがクラスIのメッセージである。一方、感染がない非感染性適応においては、「TLEに伴う上大静脈破裂や心破裂といった致死的リスク」と「リードを残すことによる将来の不利益（静脈閉塞、MRI制限、物理的干渉など）」を、患者の期待余命に照らし合わせて慎重に天秤にかけよ、という高度な個別化判断が求められている。
+3. 抜去（Extraction） vs リード遺残（Abandonment）
+機能不全に陥ったリードや不要となったリードに対するマネジメントにおいて、医療チームは「TLEによる完全抜去」を選択するか、リードを物理的に切断してシリコンキャップなどを被せ、そのまま血管内に残置する「遺残（Abandonment）」を選択するかの二者択一を迫られる4。 この判断は、TLEの安全性が向上した現代においても、依然として臨床現場における最大のジレンマの一つである。
+「キャップして残す（Abandonment）」と判断される基準
+リードを遺残させる判断は、単一の要素ではなく、以下のリスク因子の複合的な評価によってなされる。
+1. 感染の完全な否定: 遺残を選択するための絶対条件である。局所の発赤や微熱、原因不明の炎症反応上昇など、少しでも感染が疑われる場合は遺残の選択肢は排除され、完全抜去へと方針転換される3。
+2. リードの留置期間（Dwell Time）の長さ: 留置期間は、抜去の難易度と合併症リスクを決定づける最大の因子である。リードが血管内に留置されてから数年（特に4.5年〜10年以上）が経過すると、リードは血管内皮細胞に覆われ、上大静脈や右心房・右心室の心筋組織と強固に癒着・石灰化する18。この状態のリードを無理に剥離しようとすると、血管壁がリードと共に引き裂かれ、致死的な大出血を招く。したがって、古いリードほど「残す」という判断に傾きやすくなる。
+3. 患者の脆弱性（Frailty）と期待余命: 年齢と併存疾患の評価である。80歳以上の高齢者や、重度の慢性腎臓病（CKD）、肝硬変、重症心不全を抱える患者では、手技による侵襲そのものに耐えられないリスクが高い。大規模研究では、高齢者のTLEは若年者と同等の院内死亡率で実施可能であるものの、術後脳卒中や出血性合併症のリスクは有意に高いことが示されている20。期待余命が短い高齢者においては、あえて抜去のリスクを冒さず遺残させるのが妥当な判断となる。逆に若年患者（30代〜50代）の場合、数十年後までに何本ものリードが断線し、血管内が不要なリードで埋め尽くされる事態を避けるため、リスクをとってでも積極的にTLE（抜去）が選択される傾向にある19。
+リード遺残に対する「MRI検査」のパラダイムシフト
+これまで、リード遺残（Abandonment）を選択する最大のデメリットとして「MRI検査が一生受けられなくなる」という制約が挙げられていた。従来の知見では、断線したリードやジェネレータから切り離された遺残リード（Abandoned lead）を体内に有する患者がMRI環境に入ると、強力な磁場と高周波（RF）パルスによりリードがアンテナのように働き、リード先端で異常発熱を生じさせる（アンテナ効果）と考えられていた21。この発熱が周囲の心筋組織に熱傷（サーマルアブレーション）を引き起こし、心穿孔や致死性不整脈を誘発する恐れがあるため、遺残リードはMRIの絶対禁忌とされてきた。そのため、「将来のMRI検査の可能性を確保するためだけに、リスクを冒して遺残リードを抜去する」という適応（クラスIIb）が存在していた9。
+しかし、過去5年以内の最新の臨床研究とメガレジストリの解析によって、この常識は劇的に覆りつつある。 北米放射線学会（RSNA）等の最新報告や英国のコンセンサスガイドラインによると、1.5テスラのMRI装置を用い、比吸収率（SAR）などの出力を適切に制限し、専門スタッフによる厳密な術中モニタリングを行うプロトコルを遵守すれば、遺残リードや断線リードを有する患者であっても、有害事象（心筋熱傷、致死性不整脈、疼痛など）を引き起こすことなく安全にMRI検査を実施できることが多数のコホートで証明された22。 このエビデンスの蓄積により、「MRIを撮るためだけに、強固に癒着した古いリードを無理に抜去する」というリスクとベネフィットのバランスは崩れつつあり、臨床現場においてはより安全な「遺残（Abandonment）」という選択肢への意思決定を後押しする重要なパラダイムシフトとなっている。
+4. リスク評価と患者管理
+経静脈的リード抜去術は、心臓血管インターベンションの中でも最高難度に位置づけられ、一瞬の判断の遅れが患者の死に直結する手技である。そのため、術前の綿密なリスク評価と、最悪の事態（大血管破裂など）を想定した危機管理体制の構築が必須となる。
+術前のリスク評価（SAFeTY-TLE スコアなど）
+TLEに伴う重大な合併症（Major Complications：処置関連死、外科的修復を要する心血管損傷、重症肺塞栓症など）の発生を事前に予測するため、様々な臨床的リスクスコアが提唱されている。代表的な指標である「SAFeTY-TLEスコア」や、ELECTRaレジストリから抽出された高リスク因子は以下の通りである27。
+
+
+リスク因子（SAFeTY-TLEスコア等より）
+	リスクを増大させる理由とメカニズム
+	リード留置期間（Dwell time）の長期化
+	古いリード（特に4.5年〜10年以上）は、血管や心筋との癒着が石灰化を伴って極めて強固になるため。最も強力な合併症予測因子の一つである18。
+	若年（30歳未満）での初回植込み
+	若年者は組織の反応性が高く、リード周囲の結合組織形成（線維化）がより早く、より強固に進行するため28。
+	女性・低体重（低BMI）
+	男性に比べて血管径が細く、血管壁および右心房・右心室の壁が薄いため、シースによる物理的な進達や牽引によって組織が裂けやすいため18。
+	非感染性適応
+	感染症例では炎症によって組織が脆く（浮腫状に）なっていることが多く剥離しやすい場合があるが、非感染例では健常で強固な線維性組織を物理的に引き剥がす必要があるため18。
+	リードの本数と種類（ICDリードなど）
+	抜去対象のリードが複数ある場合や、ICDリード（特にデュアルコイル）、冠静脈洞（LV）リードは、その複雑な構造と表面積の大きさから癒着範囲が広大であり、技術的難易度が跳ね上がるため28。
+	ツール選択のアップデート：レーザーシース vs 機械的シース
+癒着したリードを血管壁から剥離・抜去するためのデバイスとして、現在主流となっているのは「エキシマレーザーシース（GlideLightなど）」と「パワード機械的シース（回転式カッターを装備したEvolutionやTightRailなど）」である。過去5年間に発表されたメタアナリシスやELECTRaレジストリのサブ解析により、両者の有効性と安全性に関するプロファイルが明確になってきている33。
+* レーザーシースのアドバンテージとリスク: 先端から照射される紫外線レーザーによって、癒着した線維組織を気化（蒸散）させながら進達する。組織を物理的に引きちぎるのではなく「溶かす」ため、迅速な剥離が可能であり、完全抜去率が極めて高い（約96.4%）33。しかし、直線的に進むレーザーの性質上、血管が湾曲している部位（特に上大静脈から右心房への移行部など）において、血管壁そのものを損傷するリスクが機械的シースに比べて有意に高い（上大静脈損傷リスクが約5倍）ことが最大の欠点として指摘されている35。
+* 機械的シースのアドバンテージとリスク: 先端の金属製カッターを回転させることで、癒着組織を物理的に切削して進む。血管の走行に沿って進みやすいため、上大静脈損傷のリスクはレーザーに比べて低いとされる35。しかし、極めて強固な石灰化病変に直面した場合、刃が立たずに進達が困難になることがあり、手技時間が延長する傾向がある35。
+最新の臨床現場では、単一のツールに固執するのではなく、病変の性質や石灰化の程度に応じてレーザーと機械的シースを術中に切り替える（クロスオーバー）アプローチが、最も高い臨床成功率と安全性を両立することが示されている34。
+ガイドライン・国内ステートメントによる施設と術者の要件強化
+TLEの合併症発生率は数%と低いものの、上大静脈（SVC）裂傷や心破裂といった致命的合併症は、ひとたび発生すれば数分で患者が失血死に至る。この冷徹な事実に基づき、2023年に改訂された日本不整脈心電学会（JHRS）の「リード抜去手術に関するステートメント」では、手技を行うための施設基準および術者基準が極めて厳格にアップデートされた14。
+1. 心臓血管外科との緊密な連携と常勤要件: 最大のアップデートは、単なる循環器内科医の技術だけでなく、「施設としての総合力」が問われるようになった点である。緊急時の開胸手術（胸骨正中切開）や人工心肺装置の導入へ即座に移行できる体制が必須であり、ステートメントでは「循環器専門医と心臓血管外科専門医の双方が常勤し、術前カンファレンスで綿密な情報共有を行っていること」が施設基準として明記された14。
+2. Bridge Occlusion Balloon（BOB）の術中準備: 万が一、上大静脈が破裂した場合、外科医が胸を開けて修復するまでの数分〜十数分間、患者の血圧を維持しなければならない。このための革新的なツールが「オクリュージョンバルーン（Bridgeバルーンなど）」である。手技中はあらかじめ大腿静脈からガイドワイヤーをSVCまで進めておき、裂傷が発生した瞬間にバルーンをSVC内で膨らませて内側から止血する。このBridgeバルーンを適切に使用することで、出血量を平均90%低減し、SVC裂傷患者の生存率を56.4%から91.7%へと劇的に向上させることが報告されている。現在の標準治療では、このバルーンの即時使用体制が強く推奨されている14。
+3. J-LEXへの全例登録と継続的モニタリング: 日本国内におけるTLEの質を担保し、合併症を追跡するため、全国規模のレジストリ「J-LEX（Japanese Lead Extraction Registry）」への参加が施設要件として義務付けられている14。J-LEXの報告によると、国内のTLE成績は「完全抜去率96.7%、臨床成功率98.9%、周術期合併症率4.1%」と、欧米のハイボリュームセンターに引けを取らない極めて高い安全性と有効性を達成している38。現在は後継プロジェクトである「J-LEX II」が進行中であり、従来の経静脈リードに加え、皮下植込み型除細動器（S-ICD）や血管外植込み型除細動器（EV-ICD）、リードレスペースメーカなどの新規デバイスの抜去データ蓄積が進められ、さらなる手技の標準化が図られている38。
+結論と今後の展望
+経静脈的リード抜去術（TLE）は、CIED関連感染症から患者を救命し、機器の機能不全による致死的トラブルを未然に防ぐための、現代医療において不可欠なインターベンションである。「感染があればいかなる困難を伴っても抜去し、感染がなければリード遺残のリスクと抜去のリスクを緻密に秤にかける」という大原則は、TLEに関わるすべての医療スタッフが共有すべき羅針盤である。
+過去5年間の知見の蓄積により、遺残リードを有する患者におけるMRI検査の安全性が証明され、リード遺残のハードルが大きく下がった一方で、経カテーテル的三尖弁治療（TTVR）という新たな技術の台頭により、「Jailed lead」を防ぐための積極的な事前のリード抜去が求められるという、新たなジレンマも生じている12。
+これからのリードマネジメントにおいて最も重要なのは、個人の卓越した技術に依存するのではなく、循環器内科医、心臓血管外科医、麻酔科医、そして専門知識を持つコメディカルスタッフが一体となった「ハートチーム（Heart Team）」による集学的アプローチである。術前の精緻なリスク評価、レーザーと機械的ツールのハイブリッド運用、そしてBridgeバルーンを含む鉄壁の危機管理体制を構築することこそが、ガイドラインが提示する真の「標準治療」の姿である。
+引用文献
+1. 2017 HRS expert consensus statement on cardiovascular ... - IDSA, https://www.idsociety.org/globalassets/idsa/practice-guidelines/2017-hrs-expert-consensus-statement-on-cardiovascular-implantable-electronic-device-lead-management-and-extraction.pdf
+2. (PDF) 2018 EHRA expert consensus statement on lead extraction, https://www.researchgate.net/publication/323811003_2018_EHRA_expert_consensus_statement_on_lead_extraction_recommendations_on_definitions_endpoints_research_trial_design_and_data_collection_requirements_for_clinical_scientific_studies_and_registries_e
+3. 2017 HRS Expert Consensus Statement on CIED Lead ... - iscvid, https://www.iscvid.org/wp-content/uploads/2022/07/S12_HOENB_ISCVID19.pdf
+4. 2018 EHRA expert consensus statement on lead extraction, https://academic.oup.com/europace/article/20/7/1217/4939246
+5. Long-term outcomes following transvenous lead extraction - IRIS, https://iris.unibs.it/retrieve/b6f36b86-91a8-4889-ae32-9f469a6f6b17/Long%20term%20outcome%20in%20TLE%20Arabia%20et%20al%202023.pdf
+6. 2017 HRS expert consensus statement on cardiovascular ... - lahrs, https://lahrs.org/guias_lahrs/2017-hrs-expert-consensus-statement-on-cardiovascular-implantable-electronic-device-lead-management-and-extraction.pdf
+7. Mechanisms of Lead Failure by Recall Status and Manufacturer, https://www.hmpgloballearningnetwork.com/site/eplab/articles/mechanisms-lead-failure-recall-status-and-manufacturer-results-pacemaker-and-implantable
+8. A Comparative Study of Defibrillator Leads at a Large-Volume, https://www.hmpgloballearningnetwork.com/site/jic/articles/comparative-study-defibrillator-leads-large-volume-implanting-hospital-results-pacemaker-and-implantable-defibrillator-leads-survival-study-paidless
+9. Lead Extraction | Thoracic Key, https://thoracickey.com/lead-extraction/
+10. Efficacy and Safety of Transvenous Lead Extraction at the Time of, https://www.mdpi.com/1660-4601/20/1/291
+11. Transvenous Lead Extraction for Tricuspid Regurgitation and Right, https://pmc.ncbi.nlm.nih.gov/articles/PMC13130909/
+12. Jailed or freed? The lead dilemma in transcatheter tricuspid valve, https://academic.oup.com/europace/article/27/10/euaf235/8262585
+13. Lead management in patients undergoing percutaneous tricuspid, https://pmc.ncbi.nlm.nih.gov/articles/PMC10629975/
+14. リード抜去手術に関するステートメント （2023年改訂）, https://new.jhrs.or.jp/information-on-statements-standards-and-requirements/guideline/statement202301/
+15. リード抜去手術に関するステートメント （2026年改訂）, https://new.jhrs.or.jp/information-on-statements-standards-and-requirements/guideline/statement202601/
+16. Transvenous Lead Extraction in Adult Patient with Leads Implanted, https://pdfs.semanticscholar.org/8fae/22e2e4af105e1e2bdb264f1dd3761a398b2b.pdf
+17. 「不整脈非薬物治療ガイドライン」が7年ぶりに改訂｜心房細動への, https://www.kango-roo.com/work/6683/
+18. Transvenous lead extraction: predictors of procedure complexity, https://openheart.bmj.com/content/openhrt/13/1/e003967.full.pdf
+19. Procedural outcome & risk prediction in young patients undergoing, https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2023.1251055/full
+20. Safety and Clinical Outcomes of Transvenous Lead Extraction for, https://pmc.ncbi.nlm.nih.gov/articles/PMC12681079/
+21. 2017 HRS expert consensus statement on magnetic resonance, https://irm-compatibilite.com/documents/recos/Guidelines_CIED_MRI_Radiation_HR_2017.pdf
+22. MRI in Patients with Cardiovascular Implantable Electronic Devices, https://pmc.ncbi.nlm.nih.gov/articles/PMC11211945/
+23. MRI in Patients with Cardiovascular Implantable Electronic Devices, https://pubs.rsna.org/doi/abs/10.1148/ryct.230303
+24. Joint British Society consensus recommendations for magnetic, https://heart.bmj.com/content/110/4/e3
+25. Safety of magnetic resonance imaging in patients with cardiac, https://academic.oup.com/europace/article/26/6/euae165/7699109
+26. Feasibility of MRI in patients with non-Pacemaker/Defibrillator, https://pdfs.semanticscholar.org/6488/45b81d25b8f94d5304f51f86eaf6048899f0.pdf
+27. Risk calculator to predict the risk of major complications during a, https://www.researchgate.net/figure/Risk-calculator-to-predict-the-risk-of-major-complications-during-a-transvenous-lead_fig3_338905936
+28. Transvenous Lead Extraction SAFeTY Score for Risk Stratification, https://pmc.ncbi.nlm.nih.gov/articles/PMC7073714/
+29. Transvenous Lead Extraction in a Real-World Cohort - MDPI, https://www.mdpi.com/2077-0383/15/14/5745
+30. よくあるご質問(安全性試験について), https://www.fdsc.or.jp/faq/safety_test/
+31. To grade or not to grade safety requirements for transvenous lead, https://journals.viamedica.pl/polish_heart_journal/article/view/92796
+32. Transvenous Lead Extraction Complicated by Lead Breakage - MDPI, https://www.mdpi.com/2077-0383/15/3/1216
+33. Safety and success of transvenous lead extraction using excimer, https://cris.unibo.it/bitstream/11585/958492/1/Rinaldi_2023.pdf
+34. A head-to-head comparison of laser vs. powered mechanical ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC9935030/
+35. Lead extraction today: a matter of time or a matter of way? - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC10638004/
+36. Comparison of non-laser and laser transvenous lead extraction, https://academic.oup.com/europace/article/25/11/euad316/7330356
+37. Bridgeオクリュージョンバルーン| Philips Healthcare - フィリップス, https://www.philips.co.jp/healthcare/product/HCIGTDBOB/bridge-occlusion-balloon
+38. 研究概要｜J-LEX Ⅱ リード抜去症例の実態調査 - 日本不整脈心電学会, https://new.jhrs.or.jp/contents_web/j-lex2/02_about.html

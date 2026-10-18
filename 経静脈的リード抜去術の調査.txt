@@ -1,0 +1,175 @@
+﻿経静脈的リード抜去術（TLE）における標準的治療戦略と最新知見に基づく実践的アプローチ：医療従事者のための総合学習レポート
+1. 序論：経静脈的リード抜去術（TLE）の全容と適応の変遷
+心臓植込み型電子デバイス（CIED：ペースメーカ、植込み型除細動器（ICD）、両心室ペーシング（CRT）など）の普及と、それに伴う患者の高齢化やデバイス留置期間の長期化により、リード関連の合併症が臨床上の大きな課題となっている。経静脈的リード抜去術（TLE：Transvenous Lead Extraction）は、感染や機能不全に陥ったリードを特殊なデバイスを用いて血管内から完全に抜去する低侵襲かつ高度な手技である1。本レポートは、TLE業務に従事する臨床工学技士や看護師などの医療スタッフが、手技の全体像、デバイスの物理的特性、および致死的合併症の回避に向けた安全管理体制を包括的に理解するための専門的学習資料として提供される。
+1.1 TLEの主要な臨床的適応
+TLEの実施適応は、「2017年 HRS/AHA/APHRS/EHRA/LAHRS/PACES/STS Expert Consensus Statement」や、「2021年 JCS/JHRS ガイドライン フォーカスアップデート版 不整脈非薬物治療」において厳密に定義されており、適応に基づいた慎重な患者選択が求められる3。
+臨床現場における最も強力かつ絶対的な適応は、デバイス関連感染症（CIED感染）である6。ポケット感染、デバイス関連の血流感染、あるいは感染性心内膜炎（IE）が発生した場合、細菌はリード表面などの非生体物質上に強固なバイオフィルムを形成する。このバイオフィルムは抗菌薬の浸透を阻害するため、感染したハードウェア（ジェネレータおよび全てのリード）を完全に抜去しない限り、感染の根治は事実上不可能である6。大規模な観察研究において、CIED感染症に対する迅速なTLEの実施は、保存的治療や単純なポケット洗浄と比較して、患者の生存率を有意に改善することが証明されている7。
+感染以外の非感染性適応としては、リードの絶縁破壊や断線による機能不全、不適切作動の原因となるリードの抜去が挙げられる8。また、システムのアップグレードや対側への新規リード追加が必要な状況において、鎖骨下静脈などの既存の血管アクセスルートが血栓や線維化によって閉塞している場合、既存のリードを抜去することで新たな静脈ルートを再開通させる目的（リノベーション）でもTLEが施行される2。さらに近年では、機能を果たさなくなった不要なリード（Abandoned leads）を体内に放置することによる将来的な物理的干渉や静脈血栓症、三尖弁逆流（TR）のリスクを未然に防ぐための「予防的抜去」の重要性がクローズアップされている11。
+1.2 レジストリデータから見るTLEの成績と安全性
+TLEの安全性と有効性は、国際的な大規模レジストリによって裏付けられている。欧州不整脈学会（EHRA）が主導した「ELECTRa（European Lead Extraction ConTRolled）レジストリ」では、3,555例のTLEが解析され、臨床的成功率は96.0%、周術期の主要合併症発生率は約1.7%、手技関連死亡率は0.5%と報告された8。一方で、敗血症を伴う全身性感染症例においては、全死亡のオッズ比が著しく上昇することも示されており、術前の全身状態が予後に直結することが明らかになっている6。
+日本国内においては、日本不整脈心電学会（JHRS）の主導により、2018年から「J-LEX（Japanese Lead Extraction Registry）」が開始された。この全国規模の症例登録データでは、完全抜去率96.7%、臨床的成功率98.9%、周術期合併症率4.1%という極めて良好な成績が示され、国内におけるTLEが国際基準に遜色ないレベルで安全に実施されていることが確認された1。これらのデータは、高度なデバイスの普及と、後述するハイブリッド手術室等を用いたハートチームによる厳格な安全管理体制の賜物である。
+
+
+レジストリ名
+	対象症例数
+	完全抜去・臨床的成功率
+	主要合併症率 / 手技関連死亡率
+	備考・主な知見
+	ELECTRa (欧州)6
+	3,555例
+	臨床成功 96.0%
+
+
+完全抜去 95-97%
+	主要合併症 1.7%
+
+
+死亡率 0.5%
+	ハイボリュームセンター（年間30例以上）における成功率の高さと合併症の低さが明確に示された。敗血症は死亡の強力な予測因子。
+	J-LEX (日本)1
+	継続登録
+	臨床成功 98.9%
+
+
+完全抜去 96.7%
+	周術期合併症 4.1%
+
+
+（主要・マイナー含む）
+	日本のリアルワールドデータ。高い成功率を維持しつつ、安全に実施されていることが証明された。
+	2. TLEの手技における全体フロー：術前評価から術後管理までの標準的アプローチ
+TLEは単なるカテーテル手技ではなく、血管内治療と外科的手術の境界に位置する高度なインターベンションである。手技を安全かつ確実に遂行するためには、術前の綿密な評価から術後の管理に至るまで、多職種連携による標準化されたフローを遵守する必要がある。
+2.1 術前準備とリスク層別化
+TLEの成否は、術前の情報収集とリスク評価の精度に大きく依存する。画像診断は必須であり、経胸壁心エコー（TTE）および経食道心エコー（TEE）を用いて、三尖弁の機能評価（既存の三尖弁逆流の程度）や、リード上の疣贅（感染性心内膜炎による菌塊）の有無、サイズを詳細に観察する2。さらに、造影CTや静脈造影によって、リードの走行、鎖骨下静脈や上大静脈（SVC）の開存性、石灰化の程度を評価する11。
+患者背景の評価においては、リードの留置期間（Dwell time）が最も重要な因子のひとつとなる。一般に、留置から1〜2年以上経過したリードは、血管内皮や心筋組織との間に強固な線維性結合（カプセル化）や石灰化を形成しており、単純な牽引による抜去は困難となる2。また、術前の抗凝固療法については、手技中の致死的出血リスクと、休薬による血栓塞栓リスクを天秤にかけ、NOAC（非ビタミンK阻害経口抗凝固薬）やワルファリンの適切な投与設計が行われる17。
+2.2 抜去手技のフロー（術中）
+TLEの術中プロセスは、物理学的な力学バランスと組織剥離の連続である。
+1. 麻酔と血行動態モニタリング： 致死的な合併症に備え、手技は原則として全身麻酔下で行われる。観血的動脈圧測定（Aライン）によるリアルタイムの血圧モニタリングが行われ、看護師と麻酔科医は循環動態の微細な変化に即座に対応する体制を整える17。
+2. ポケットの切開とリードの剥離： かつてデバイスを植え込んだ胸部の皮下ポケットを切開し、ジェネレータを摘出する。その後、リードの近位端を露出し、周囲を覆っている強固な結合組織をメスや電気メスを用いて丁寧に剥離し、静脈の進入部位（通常は鎖骨下静脈）を露出させる18。
+3. ロッキングスタイレットによるリードの補強： リードの内部（ルーメン）に「ロッキングスタイレット」と呼ばれる特殊なワイヤーを挿入する。このツールは、リードの遠位端付近でワイヤーを展開し、リード内壁を内側から強固にロックする役割を果たす17。長期間留置されたリードをそのまま牽引すると、リードのコイルが引き伸ばされて断裂する「スノープラウ（除雪車）現象」が発生する危険性がある6。ロッキングスタイレットを用いることで、牽引力がリード全体に均等に分散し、リード自体が一本の強固な「レール」へと変貌する6。
+4. 牽引とカウンター牽引（Traction and Counter-traction）： ロッキングスタイレットを用いてリードに適切な牽引力（Traction）をかけながら、リードの外側に抜去用シースを被せて静脈内に挿入する6。術者は、リードを手前に引く力でレールを維持しつつ、シースを前方に押し込む力（Counter-traction）によって、リードと血管壁の間に形成された線維性癒着を機械的または熱的エネルギーで切り裂きながら進めていく6。この力の均衡が崩れると、血管壁の裂傷や心筋の穿孔を招くため、極めて繊細なカテーテル操作技術が要求される10。
+5. 抜去と止血、再植込み： シースが右室心尖部などの最終固定部に到達し、癒着が完全に解除されると、リードは心臓内から解放される。抜去後は、シースからの失血を防ぐために適切な止血操作を行い、患者の臨床的ニーズ（ペーシング依存度など）に応じて、新たなリードやデバイスの対側への再植込み、あるいはリードレスペースメーカの留置が検討される10。
+2.3 術後の管理と合併症の早期発見
+手技が終了した後も、遅発性の合併症に対する厳格な監視が必要である。術後24時間以内に胸部X線撮影を実施し、気胸、血胸、あるいは遺残したリード断片の有無を確認する13。また、経胸壁心エコー（TTE）を速やかに行い、心嚢液の貯留（心タンポナーデの兆候）や、リード抜去時の牽引に伴う三尖弁の腱索断裂・弁尖損傷に起因する重度の三尖弁逆流（TR）が発生していないかを確認する13。三尖弁の損傷は、抜去後に右心不全を引き起こす重大な要因となるため、詳細な評価が不可欠である16。感染症を理由としたTLEの場合は、抜去後に採取された組織や血液の培養結果に基づき、数週間から数ヶ月にわたる適切な抗菌薬治療が継続される13。
+3. 主要な抜去デバイスの特性、メカニズム、および実践的使い分け
+TLEの歴史は、直接的な牽引による抜去から始まり、現在では高度なエネルギーデバイスを用いた洗練された手技へと進化を遂げている6。臨床現場では、リードの留置年数や石灰化の質、血管の蛇行具合に応じて、最適なデバイスを選択する。
+3.1 補助ツールの役割と大腿静脈アプローチ（Bail-out strategy）
+前述のロッキングスタイレットは、リードを一本の硬いレールにするために不可欠なツールである6。しかし、リードが途中で断裂してしまった場合や、ロッキングスタイレットを挿入できない古いリードの場合、上方（鎖骨下）からのアプローチは困難となる。
+このような難渋症例において極めて重要な役割を果たすのが、大腿静脈アプローチと「スネア（Snare）」などの捕捉ツールである2。大腿静脈からカテーテルを挿入し、先端がループ状になったスネアやバスケットカテーテルを用いて、心房や静脈内に遊離したリードの断片を投げ縄のように把持し、体外へ引きずり出す2。この大腿アプローチ（Bail-out strategy）は、上方アプローチで失敗した場合のバックアップとして機能し、両方向からの牽引を組み合わせるタンデム・テクニック（Tandem technique）を用いることで、10年以上の長期留置リードであっても極めて高い臨床的成功率（98%）を達成することが報告されている6。
+3.2 パワードシース（Powered Sheath）の比較と適応
+現在のTLEにおける主役は、外部からのエネルギーや機械的な動力を利用して強固な癒着を破壊する「パワードシース」である。主流となっているのは「エキシマレーザーシース」と「機械的シース（回転式）」の2種類であり、それぞれの作用機序とメリット・デメリットを理解することが、適切なデバイス選択の鍵となる。
+
+
+比較項目
+	エキシマレーザーシース（例：GlideLight, SLS II）
+	機械的シース / 回転式（例：Evolution RL, TightRail）
+	作用メカニズム
+	シース先端に配置された光ファイバーから、波長308nmの紫外線パルスレーザーを照射。組織の細胞レベルの分子結合を破壊し、線維性癒着を瞬時に気化（光アブレーション）して切断する6。
+	シース先端に金属製のブレードやネジ山（スレッド）が備わっている。手元のトリガーを操作することで先端が回転し、組織を機械的に削り取る・押し広げる（ボーリング効果）6。
+	主なメリット
+	・組織を光で「溶かす」ため、術者がシースを押し込む物理的な推進力（前進力）が少なくて済む（80Hz設定で最大55%減）22。
+
+
+・組織抵抗が少ないため、手技時間が短縮される傾向にあり、止血や周囲組織への物理的牽引ストレスが少ない9。
+	・熱エネルギーを発生させないため、周囲の組織や隣接する他の正常なリードへの熱損傷リスクが低い。
+
+
+・長期間の留置によって形成された極めて強固な「石灰化」病変に対しても、物理的に削り切る突破力が高い24。
+	主なデメリット
+	・上大静脈（SVC）のような血管の屈曲部でレーザーを無防備に照射すると、血管壁自体を貫通し、致死的なSVC裂傷を引き起こすリスクが相対的に高いと報告されることがある（OR 5.2）24。
+
+
+・装置の導入・維持コストが非常に高い27。
+	・物理的な力を加えるため、術者の手技感覚（触覚的フィードバック）への依存度が大きい。
+
+
+・過度な押し込みや回転は、血管の巻き込みや心破裂、静脈裂傷を招く危険があるため、慎重な操作が求められる25。
+	使い分けの基準と臨床的知見
+	・留置期間が比較的短い〜中程度（数年程度）のリードや、迅速な抜去が求められる症例で第一選択として好まれる。
+
+
+・血管の直線部分での使用が効果的26。
+	・留置期間が非常に長い（10年以上）リードや、術前画像で重度の石灰化が確認されている症例で強みを発揮する。
+
+
+・レーザーと同等以上の完全抜去率や臨床的成功率（95〜98%）を示す6。
+	現代のハイブリッド・アプローチ戦略
+臨床現場では、単一のデバイスのみで全てのリードを安全に抜去できるわけではない24。多くの熟練した施設では、症例の特性に応じてデバイスを切り替える「ステップアップ（クロスオーバー）」戦略が採用されている28。例えば、初期アプローチとしてレーザーシースを使用し、特定の石灰化病変で前進が困難になった場合、速やかに回転式機械的シースに切り替えることで、血管損傷のリスクを抑えつつ抜去を完了させる28。臨床工学技士や看護師は、術中の状況変化を先読みし、複数のデバイスを即座に提供できる準備を整えておくことが極めて重要である29。
+4. 致死的合併症への備えとハートチームによる安全管理・バックアップ体制
+TLEは血管内カテーテル治療としての側面を持つ一方で、その本質は「心臓や大血管の壁に癒着した異物を引き剥がす」という極めて攻撃的かつ侵襲的な手技である10。そのため、日本不整脈心電学会等のガイドラインでは、万が一の破局的な事態に即座に対応できる厳重なバックアップ体制の構築が施設要件として義務付けられている3。
+4.1 なぜ「ハイブリッド手術室」で行うのか？
+TLEは通常の手術室やカテーテル室ではなく、「ハイブリッド手術室」で行うことが強く推奨される19。ハイブリッド手術室は、微細なリードやデバイスの挙動を捉えるための高性能なX線透視装置（アンギオ装置）と、緊急開胸手術に対応可能な高度な清潔環境、無影灯、麻酔器などの外科設備を融合させた空間である19。 致死的な合併症（SVCの裂傷や心破裂）が発生した場合、カテーテル操作のみでの止血は不可能であり、数分以内に胸骨正中切開（開胸）を行わなければ患者は失血死する13。患者を別の手術室へ移動させる時間的猶予は一切ないため、同じベッドの上で瞬時に外科手術へ切り替えられるハイブリッド手術室の存在が、患者の生死を分ける絶対条件となるのである19。
+4.2 致死的合併症とPCPS（ECMO）のスタンバイ
+TLEにおいて最も警戒すべき合併症は以下の2点である13。
+* 上大静脈（SVC）損傷： 抜去用シースが腕頭静脈からSVCへ角度を変えて進入する接合部付近（SVC-右房接合部など）で発生しやすい6。SVCの壁は非常に薄く、シースの押し込みやレーザーの照射によって裂傷が生じると、大量の血液が胸腔や縦隔内に流出し、急速な循環虚脱に陥る。この合併症が発生した場合の死亡率は、外科的介入を行ったとしても歴史的に約50%に達するとされてきた6。
+* 心破裂と心タンポナーデ： 右房壁や右室心尖部に深く固着したリードの先端を引き剥がす際、心筋ごと引きちぎってしまい、血液が心膜腔に急速に貯留して心拍出量が激減する状態である13。
+ハートチームによる連携したレスキュー： これらの出血が発生した場合、血圧が急降下するため、臨床工学技士は速やかにスタンバイしていたPCPS（経皮的心肺補助装置 / V-A ECMO）を起動し、大腿動静脈からの送脱血によって人工心肺による循環動態の維持を行う10。同時に、待機していた心臓血管外科医がただちに開胸し、直視下で出血箇所の縫合止血を実行する10。看護師はあらかじめ準備していた大量の輸血製剤の急速投与と、急変時の循環作動薬の投与を円滑に行い、麻酔科医は経食道心エコー（TEE）を用いて出血部位や心タンポナーデの状況をリアルタイムで外科医に伝達する。このように、多職種が自身の役割を熟知し、阿吽の呼吸でレスキューに当たる「ハートチーム」の構築こそが、安全管理の要である10。
+4.3 ゲームチェンジャー：Bridge オクリュージョンバルーン
+近年、この致死的なSVC損傷に対する生存率を飛躍的に向上させる画期的なレスキューデバイス「Bridge オクリュージョンバルーン（Bridge Occlusion Balloon）」が普及している31。
+* 仕組みと留置手順： TLEを開始する前に、あらかじめ大腿静脈からSVC付近までガイドワイヤーを待機（スタンバイ）させておく。SVC損傷による急激な血圧低下や造影による出血の兆候が確認された瞬間、このワイヤー伝いにBridgeバルーンを2分以内に進め、SVCの全長を覆うように展開させる32。このバルーンはコンプライアント（柔軟に拡張する）特性を持ち、静脈の形状に合わせて低圧で密着し、最大3.5cmの巨大な裂傷であっても血流の漏れを物理的に塞ぐことができる31。
+* もたらす効果： バルーンの拡張により、SVC裂傷による出血量の最大90%を即座に減少させることができる31。これにより、最低でも30分間の止血と血行動態の安定化（Heamostasis）が確保される。この「猶予時間（Bridge）」を利用して、外科医がパニックに陥ることなく安全かつ落ち着いて開胸し、血管の修復手術に移行することができる32。 海外の複数年にわたるデータベース研究によれば、SVC裂傷発生時の患者生存率は、バルーンを使用しなかった場合は56.4%であったが、Bridgeバルーンの適切なプロトコルに基づく使用により88.2%〜91.7%へと劇的に改善したことが報告されている22。
+5. 最近5年のデバイスや手技におけるトピックスとパラダイムシフト
+過去5年間（おおむね2019年〜2026年）において、TLEの領域は、新たなペーシング技術の台頭やエビデンスの蓄積により、大きなパラダイムシフトを迎えている。
+5.1 CSP（刺激伝導系ペーシング）におけるルーメンレスリードの抜去
+近年、従来の右室心尖部ペーシングが引き起こす心不全を回避するため、より生理的な心室興奮をもたらす「刺激伝導系ペーシング（CSP：Conduction System Pacing）」、特にヒス束ペーシング（HBP）や左脚領域ペーシング（LBBAP）が急速に普及している21。 これらのCSPには、主に「ルーメンレスリード（Lumenless Lead、代表例：Medtronic社製 SelectSecure Model 3830リード）」が使用される21。
+* 抜去における課題と知見： ルーメンレスリードはその名の通り、内部にスタイレットを通すための空洞（ルーメン）がない。そのため、TLEの要である「ロッキングスタイレット」を挿入してリードを内側から補強することが不可能であり、牽引に対する強度が不足して抜去が困難になるのではないかと強く懸念されていた21。
+* 最新の臨床結果： しかし、最新の単施設および多施設研究の蓄積により、この懸念は払拭されつつある。3830リードは直径が4.1Fr（約1.4mm）と非常に細く、血管内での占有面積が小さいため、周囲の線維性癒着が比較的少なく済む特性がある。その結果、多くの場合「単純牽引」のみで安全に抜去できることが判明した21。鎖骨下静脈等で癒着が強く単純牽引で抜けない場合でも、リードの外側から機械的シース（Evolutionなど）を被せて削り進めることで、大きな合併症なく高い完全抜去率（94%〜100%）を達成できることが示されており、CSPリードに対するTLEの安全性と実現可能性が確認されている21。
+5.2 「不要なリードの放置（Abandonment）」から「予防的抜去」への転換
+過去の臨床現場では、感染を伴わないリードの断線や機能不全の場合、古いリードをそのまま体内に「放置（Abandon）」し、新しいリードを横に追加留置する戦略が一般的であった。しかし、最近の数万例規模の長期観察レジストリにより、不要なリードを放置することの長期的な弊害とリスクが次々と浮き彫りになった11。
+* 放置による弊害： 放置されたリードは、将来的なデバイス関連感染症（CIED感染）のリスクを有意に高める11。また、リードの総本数が増えることで、鎖骨下静脈の完全閉塞のリスクや、既存のリードと新しいリードが擦れ合うことで生じる絶縁破壊（不適切作動の原因）、そして三尖弁への物理的干渉による三尖弁逆流（TR）の進行リスクが増加する12。
+* 後年の抜去困難性： さらに深刻なのは、放置されたリードを数年から十数年後にいざ抜去しようとした際、癒着が極めて強固かつ広範囲に進行している点である。留置期間（Dwell time）が長くなるにつれ、単純牽引による抜去成功率は激減し（37.5%から8.9%へ低下）、パワードシースの使用や大腿静脈アプローチの必要性が跳ね上がり、結果として重篤な合併症リスクや緊急開胸手術への移行率が有意に高くなることが証明された11。
+これらのエビデンスに基づき、現在では「リードを放置するリスク」と「TLEの手技リスク」を慎重に比較検討した上で、特に若年患者や先天性心疾患（CHD）の患者など、将来のリード追加が予想される層においては、「不要になったリードは可能な限り若いうち（癒着が進行する前）にTLEで予防的に抜去する」という積極的抜去戦略がガイドラインレベルで支持されるようになっている12。
+5.3 施設経験量（ボリューム）と予後の相関、および「J-LEX II」の展望
+TLEにおける最大の手技的決定因子は、術者および施設の「経験量」である。欧州のELECTRaレジストリの解析から、年間30例以上のTLEを実施する「ハイボリュームセンター」は、それ未満のローボリュームセンターと比較して、臨床的成功率が有意に高く、全死亡率や合併症率が低いことが統計学的に明確に示された41。この「施設ボリュームが患者の予後を直接的に左右する」という事実に基づき、国内外の学会では、高度なスキルを持った専門医と熟練したハートチームを備えた中核施設への患者集約（紹介）が強く推進されている7。
+日本国内においては、2025年から2029年にかけて、JHRS主導による第2次全国レジストリ「J-LEX II」が進行中である1。このプロジェクトでは、従来の経静脈的リードに加え、近年急速に普及している皮下植込み型除細動器（S-ICD）や血管外植込み型除細動器（EV-ICD）、そして前述のCSPリードの抜去症例も対象に含まれている。実臨床における多様なニーズに対応し、さらなる手技の標準化と安全性向上のための包括的なデータ蓄積が期待されている1。
+6. 結論
+経静脈的リード抜去術（TLE）は、デバイスの感染や機能不全に対する根治的かつ不可欠な治療選択肢である。しかし、その手技は心臓や大血管に固着した異物を引き剥がすという性質上、上大静脈損傷や心破裂といった、瞬時の判断と行動を要する致死的リスクを常に内包している。
+エキシマレーザーシースや機械的回転シースといった抜去デバイスの絶え間ない進歩、およびBridgeバルーンに代表される革新的なレスキューデバイスの登場により、TLEの成功率と安全性は過去5年で着実に向上してきた。また、不要なリードの放置から予防的抜去へのパラダイムシフトや、新たなペーシング技術への対応など、適応の考え方も洗練され続けている。
+しかし、これらの高度な医療機器やエビデンスも、術前の周到な画像評価、ハイブリッド手術室というハードウェア、そして臨床工学技士・看護師・麻酔科医・心臓血管外科医が緊密に連携する「ハートチーム」の存在があって初めて真価を発揮する。TLE業務に携わる医療スタッフは、自身の専門的役割を遂行するにとどまらず、手技の全体像、デバイスの物理的なメカニズム、そして致命的な合併症発生時のプロトコルを深く理解しておくことが求められる。この高度な知識とチーム医療の熟練こそが、不測の事態において患者の命を救い、予後を改善する最大の武器となるのである。
+This is for informational purposes only. For medical advice or diagnosis, consult a professional.
+（本レポートは情報提供のみを目的としています。医学的アドバイスや診断については、専門家にご相談ください。）
+引用文献
+1. 研究概要｜J-LEX Ⅱ リード抜去症例の実態調査 - 日本不整脈心電学会, https://new.jhrs.or.jp/contents_web/j-lex2/02_about.html
+2. 2018 EHRA expert consensus statement on lead extraction, https://academic.oup.com/europace/article/20/7/1217/4939246
+3. リード抜去手術に関するステートメント （2026年改訂）, https://new.jhrs.or.jp/information-on-statements-standards-and-requirements/guideline/statement202601/
+4. 2017 HRS expert consensus statement on cardiovascular ... - lahrs, https://lahrs.org/guias_lahrs/2017-hrs-expert-consensus-statement-on-cardiovascular-implantable-electronic-device-lead-management-and-extraction.pdf
+5. New consensus statement updates guidelines for cardiac device, https://www.news-medical.net/news/20260425/New-consensus-statement-updates-guidelines-for-cardiac-device-lead-management.aspx
+6. Transvenous Lead Extraction: Work in Progress | ECR Journal, https://www.ecrjournal.com/articles/transvenous-lead-extraction-work-progress?language_content_entity=en
+7. Transvenous Lead Extraction for Cardiac Implantable Electronic, https://pmc.ncbi.nlm.nih.gov/articles/PMC12802357/
+8. Success and Complication Rates of Transvenous Lead Extraction in, https://pmc.ncbi.nlm.nih.gov/articles/PMC10051593/
+9. Extraction of His Bundle Pacing Lead: More Difficult than Coronary, https://www.mdpi.com/2227-9059/12/6/1154
+10. 経静脈的リード抜去術 | 名古屋大学附属病院ハートチーム, https://www.med.nagoya-u.ac.jp/shinzougeka/heartteam/posts/news26.html
+11. Extracting Versus Abandoning Sterile Pacemaker and Defibrillator, https://www.researchgate.net/publication/272518437_Extracting_Versus_Abandoning_Sterile_Pacemaker_and_Defibrillator_Leads
+12. Procedural outcomes of transvenous lead extraction in patients with, https://academic.oup.com/europace/article/27/8/euaf109/8152732
+13. Transvenous Lead Extractions: Current Approaches and Future, https://www.aerjournal.com/articles/transvenous-lead-extractions-current-approaches-and-future-trends?language_content_entity=en
+14. The European Lead Extraction ConTRolled (ELECTRa) study: a, https://www.ovid.com/journals/eurhrt/fulltext/10.1093/eurheartj/ehx080~the-european-lead-extraction-controlled-electra-study-a
+15. Transvenous Lead Extraction in Patients with Cardiac Implantable, https://www.mdpi.com/2079-7737/11/4/615
+16. Complications of transvenous lead extraction—focus on tricuspid, https://pmc.ncbi.nlm.nih.gov/articles/PMC11732274/
+17. Endovascular Occlusion Balloon During Transvenous Lead Extraction, https://clinmedjournals.org/articles/ijcc/international-journal-of-clinical-cardiology-ijcc-13-298.php?jid=ijcc
+18. SpectraneticsTightRail回転式拡張器シース取扱説明書 - Manuals+, https://ja.manuals.plus/spectranetics/tightrail-rotating-dilator-sheath-manual
+19. Transvenous Lead Extraction: Heart Rhythm Society Expert, https://leadconnection.org/wp-content/uploads/2022/09/HRS_LeadExtraction_July2009.pdf
+20. メリット リード抜去システム, https://www.pmda.go.jp/PmdaSearch/kikiDetail/ResultDataSetPDF/784912_22700BZX00054000_A_02_01
+21. Transvenous lead extraction of lumenless 3830 pacing ... - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC10769925/
+22. Lead management devices and extraction - Philips, https://www.philips.com.ph/healthcare/procedure/lead-extraction-management
+23. パワードシースによる経静脈的リード抜去術の施設基準届出について, https://new.jhrs.or.jp/information-on-statements-standards-and-requirements/criteria/05a/
+24. Comparison between laser sheaths, femoral approach and rotating, https://www.springermedizin.de/comparison-between-laser-sheaths-femoral-approach-and-rotating-m/19972096
+25. Transvenous Lead Extraction Procedure—Indications, Methods, and, https://www.mdpi.com/2227-9059/10/11/2780
+26. Comparison of Non-Laser and Laser Transvenous Lead Extraction, https://digitalcommons.library.tmc.edu/cgi/viewcontent.cgi?article=2403&context=uthgsbs_docs
+27. Transvenous lead extractions: comparison of laser vs. mechanical, https://academic.oup.com/europace/article/15/11/1636/503961
+28. A head-to-head comparison of laser vs. powered mechanical ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC9935030/
+29. ME部の業務（人工心肺部門 リード抜去術業務） of New ... - 北里大学, https://www.khp.kitasato-u.ac.jp/bumon/ME/pg179.html
+30. リード抜去手術に関するステートメント （2020年改訂）, https://new.jhrs.or.jp/information-on-statements-standards-and-requirements/guideline/statement202001/
+31. Bridgeオクリュージョンバルーン| Philips Healthcare - フィリップス, https://www.philips.co.jp/healthcare/product/HCIGTDBOB/bridge-occlusion-balloon
+32. Lead management devices and extraction - Philips, https://www.usa.philips.com/healthcare/procedure/lead-extraction-management
+33. Bridge Occlusion balloon - Spectranetics - PDF Catalogs, https://pdf.medicalexpo.com/pdf/spectranetics/bridge-occlusion-balloon/78616-244087.html
+34. Safety and performance of the Medtronic 3830 lead in His-bundle, https://pmc.ncbi.nlm.nih.gov/articles/PMC12644127/
+35. Transvenous lead extraction in conduction system pacing - Frontiers, https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2022.993604/full
+36. Lead preparation technique (A). Given the lumenless design of the, https://www.researchgate.net/figure/Lead-preparation-technique-A-Given-the-lumenless-design-of-the-3830-lead-a-Bulldog_fig2_371903769
+37. Extraction of lumenless pacing leads from the His bundle and left, https://academic.oup.com/europace/article/26/9/euae213/7732937
+38. Transvenous lead extraction of lumenless 3830 pacing ... - PubMed, https://pubmed.ncbi.nlm.nih.gov/37365481/
+39. Transvenous Lead Extraction in Patients with Congenital Heart, https://www.mdpi.com/2077-0383/14/12/4178
+40. Lead Abandonment and Subcutaneous Implantable Cardioverter, https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2021.692943/full
+41. The European Lead Extraction ConTRolled (ELECTRa) study, https://pubmed.ncbi.nlm.nih.gov/28369414/
+42. Impact of hospital lead extraction volume on management of cardiac, https://pmc.ncbi.nlm.nih.gov/articles/PMC11707382/
+43. an ESC EHRA EORP European Lead Extraction ... - PubMed, https://pubmed.ncbi.nlm.nih.gov/32688392/
+44. Transvenous Lead Extraction during Cardiac Implantable Device, https://www.mdpi.com/2077-0383/12/16/5175
